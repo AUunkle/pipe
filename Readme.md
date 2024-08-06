@@ -16,7 +16,6 @@ Every time when Server or Client resived any message, or define error, they logg
 
 
 
-Description of "taskList.dat" file
 format of the "taskList.dat" must be the next one
  - every task should be placed in one line,
  - all params should be separate with space symbol 
